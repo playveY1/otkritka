@@ -252,7 +252,7 @@ display: block;
     
    }
 .letter__heart{
-    top: -6%;
+    top: -15%;
     left: -5%}
 .letter__border{
     background-color: var(--border-letter-color);
